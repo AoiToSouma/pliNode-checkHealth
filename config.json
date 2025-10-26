@@ -1,0 +1,14 @@
+{
+  "HEALTH_URLS": [
+    {
+      "name": "PliNode 1",
+      "url": "https://PliNode1_IP_Address:6689/health"
+    },
+    {
+      "name": "PliNode 2",
+      "url": "https://PliNode2_IP_Address:6689/health"
+    }
+  ],
+  "SLACK_WEBHOOK_URL": "https://hooks.slack.com/services/XXXX/YYYY/ZZZZ",
+  "INTERVAL_SECONDS": 300
+}
