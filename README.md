@@ -63,9 +63,9 @@ pm2 save
 <img src="img/error_ServiceDown.png">
 - 復旧検知
 <img src="img/restoration.png">
+※ログの時間は日本時間表記です。
 
 ### PM2 ログ
 状態はPM2ログにも記録されています。<br>
-ログの時間は日本時間表記です。
 <img src="img/log_NodeDown.png">
 <img src="img/log_ServiceDown.png">
